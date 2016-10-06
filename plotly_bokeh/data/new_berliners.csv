@@ -1,0 +1,1776 @@
+city,number,lat,lon
+Hamburg,20956,53.55,10.00
+Dresden,17578,51.05,13.74
+Leipzig,17561,51.34,12.38
+Potsdam,15327,52.40,13.06
+MŸnchen,12896,48.14,11.58
+Halle (Saale),10612,51.48,11.97
+Rostock,10091,54.09,12.13
+Frankfurt (Oder),9770,52.34,14.55
+Magdeburg,9677,52.13,11.64
+Hannover,9372,52.37,9.74
+Frankfurt am Main,8511,50.11,8.68
+Stuttgart,8117,48.78,9.18
+Bremen,7957,53.08,8.81
+Kšln,7837,50.94,6.96
+Kšnigs Wusterhausen,7757,52.30,13.62
+Chemnitz,7710,50.83,12.93
+RŸdersdorf bei Berlin,7330,52.47,13.78
+Cottbus,6817,36.65,-91.85
+Bernau bei Berlin,6742,39.78,-100.45
+DŸsseldorf,6464,51.23,6.78
+Bonn,6411,50.74,7.10
+Brandenburg an der Havel,6323,52.41,12.55
+Moskau,5828,55.75,37.62
+Erfurt,5592,50.98,11.03
+Neubrandenburg,5219,53.56,13.26
+Greifswald,5189,54.10,13.38
+Eberswalde,5080,52.84,13.80
+Teheran,5042,35.69,51.42
+Essen,4963,51.46,7.01
+Neuruppin,4947,52.92,12.81
+Strausberg,4933,52.58,13.88
+Beirut,4846,33.90,35.48
+Schwerin,4805,53.63,11.41
+Breslau,4753,51.11,17.03
+Braunschweig,4738,52.26,10.53
+Schwedt/Oder,4725,53.06,14.28
+Hennigsdorf,4651,52.64,13.19
+Kiel,4498,54.32,10.14
+Oranienburg,4464,52.75,13.25
+Stralsund,4461,54.32,13.09
+Prenzlau,4446,53.32,13.87
+Istanbul,4445,41.01,28.97
+Stettin,4406,53.43,14.55
+Freiburg im Breisgau,4371,48.00,7.85
+Damaskus,4332,33.51,36.31
+Gšrlitz,4294,51.15,14.98
+Gšttingen,4130,51.53,9.94
+Heidelberg,4094,49.41,8.69
+MŸnster (Westfalen),4033,51.95,7.61
+Jena,4017,50.93,11.58
+Kassel,3975,51.31,9.48
+Dortmund,3959,51.51,7.47
+Luckenwalde,3797,52.09,13.16
+Bielefeld,3785,52.01,8.54
+Karlsruhe,3625,49.01,8.40
+NŸrnberg,3622,49.45,11.08
+Hanoi,3599,21.03,105.85
+Bad Saarow,3504,52.29,14.06
+Dessau,3493,51.83,12.24
+Gera,3482,50.88,12.08
+LŸbeck,3400,53.87,10.68
+EisenhŸttenstadt,3392,52.14,14.63
+Lutherstadt Wittenberg,3344,51.87,12.65
+Duisburg,3260,51.43,6.76
+Sankt Petersburg,3084,59.94,30.32
+Danzig,3029,54.35,18.65
+Rathenow,3010,52.60,12.33
+Templin,3002,53.12,13.50
+Wien,2995,48.21,16.37
+Wuppertal,2980,51.26,7.18
+Neustrelitz,2938,53.36,13.06
+Wiesbaden,2917,50.08,8.25
+Hoyerswerda,2909,51.43,14.25
+Wriezen,2906,52.72,14.13
+Oldenburg,2893,53.14,8.21
+Weimar,2880,50.98,11.33
+Sofia,2869,42.70,23.32
+Aachen,2849,50.78,6.08
+Paris,2841,48.86,2.35
+Varna,2668,43.22,27.90
+Pasewalk,2666,53.51,13.99
+Nauen,2635,52.61,12.88
+Stendal,2621,52.61,11.86
+Ankara,2610,39.92,32.85
+Bautzen,2606,51.18,14.43
+Bochum,2562,51.48,7.22
+WŸrzburg,2547,49.79,9.93
+Zossen,2541,52.22,13.45
+Mannheim,2524,49.49,8.47
+Bukarest,2501,44.44,26.10
+Warschau,2491,52.23,21.01
+Kšnigsberg (Preu§en),2490,39.78,-100.45
+London,2482,51.51,-0.13
+Mainz,2448,50.00,8.27
+Riga,2415,56.95,24.11
+Szczecin,2395,53.43,14.55
+Madrid,2379,40.42,-3.70
+Wismar,2365,53.89,11.46
+Hinis,2317,39.36,41.64
+Anklam,2309,53.86,13.69
+Hildesheim,2275,52.15,9.95
+Ludwigsfelde,2209,52.30,13.26
+GŸstrow,2208,53.79,12.18
+Altdšbern,2203,51.65,14.03
+Kiew,2190,50.45,30.52
+Bitterfeld-Wolfen,2176,51.64,12.31
+Seoul,2153,37.57,126.98
+TŸbingen,2131,48.52,9.05
+Budapest,2102,47.50,19.04
+Guben,2091,51.95,14.72
+Gelsenkirchen,2083,51.51,7.10
+Perleberg,2057,53.08,11.86
+Marburg,2040,50.81,8.78
+Zehdenick,2029,52.98,13.33
+Forst (Lausitz),2025,51.74,14.65
+Waren (MŸritz),2025,53.52,12.69
+Celle,2023,52.62,10.08
+Zittau,2023,50.90,14.81
+Demmin,1984,53.91,13.03
+New York,1980,40.73,-73.99
+SaarbrŸcken,1965,49.23,7.00
+Poznan,1964,52.41,16.93
+UeckermŸnde,1952,53.74,14.05
+Darmstadt,1942,49.87,8.65
+Bromberg,1940,53.13,18.01
+Odessa,1926,46.48,30.73
+Kyritz,1923,52.94,12.40
+OsnabrŸck,1916,52.27,8.05
+Flensburg,1913,54.78,9.43
+Wolgast,1910,54.05,13.78
+Freiberg,1903,50.92,13.34
+Plauen,1899,50.50,12.13
+Lauchhammer,1878,51.50,13.76
+Augsburg,1870,48.37,10.90
+Rom,1855,41.89,12.48
+Mei§en,1835,51.16,13.47
+Gie§en,1821,50.58,8.67
+Finsterwalde,1810,51.63,13.71
+LŸbben (Spreewald),1801,51.94,13.90
+Halberstadt,1792,51.89,11.06
+Landsberg an der Warthe,1791,52.73,15.24
+Athen,1764,37.98,23.73
+Lodz,1757,51.77,19.46
+Bremerhaven,1737,53.55,8.59
+Oppeln/Oberschlesien,1737,39.78,-100.45
+Pritzwalk,1727,53.15,12.18
+Merseburg,1721,51.36,12.00
+Bergen auf RŸgen,1707,54.42,13.43
+Burg (bei Magdeburg),1697,52.27,11.86
+Belzig,1678,52.14,12.59
+Kšthen (Anhalt),1665,51.75,11.97
+Altenburg,1661,50.99,12.43
+Izmir,1655,38.42,27.14
+LŸneburg,1645,53.25,10.41
+Hagen,1644,51.36,7.47
+Aleppo,1641,36.20,37.17
+Bozova,1636,37.29,38.39
+Riesa,1628,51.30,13.29
+Eisenach,1617,50.98,10.32
+Barcelona,1614,41.38,2.18
+Bijeljina,1593,44.76,19.22
+Tripoli,1593,32.90,13.18
+Bagdad,1567,33.30,44.38
+Wroclaw,1555,51.11,17.03
+Paderborn,1551,51.72,8.76
+Herzberg (Elster),1539,51.69,13.24
+Bernburg (Saale),1535,51.79,11.74
+Samsun,1535,41.29,36.33
+Posen,1531,52.41,16.93
+Quedlinburg,1527,51.79,11.15
+Wilhelmshaven,1518,53.53,8.11
+Ulm,1509,48.40,9.99
+Wernigerode,1506,51.83,10.79
+Gotha,1503,50.95,10.69
+Wolfsburg,1488,52.42,10.79
+Nordhausen,1482,51.50,10.79
+Erlangen,1458,49.60,11.00
+Oberhausen,1458,51.51,6.85
+Trier,1455,49.76,6.64
+Aschersleben,1454,51.76,11.46
+Gaziantep,1448,37.06,37.38
+Salzwedel,1447,52.85,11.15
+Altlandsberg,1414,52.56,13.72
+Suhl,1414,50.61,10.69
+Kabul,1393,34.52,69.16
+Spremberg,1393,51.57,14.38
+Salzgitter,1375,52.15,10.36
+Zeitz,1371,51.05,12.13
+Koblenz,1359,50.35,7.59
+Heilbronn,1341,49.14,9.22
+Adana,1340,37.00,35.33
+MŸhlhausen/ThŸringen,1340,51.21,10.46
+Mšnchengladbach,1335,51.19,6.44
+Krefeld,1333,51.33,6.56
+Woltersdorf (bei Berlin),1326,52.73,13.57
+Bafra,1322,41.48,35.83
+Naumburg (Saale),1317,51.15,11.81
+Erzincan,1290,39.75,39.49
+Regensburg,1286,49.02,12.10
+Pforzheim,1285,48.89,8.70
+Karaganda,1284,49.82,73.10
+Pirna,1266,50.96,13.94
+Gdingen,1248,54.52,18.54
+Ludwigslust,1247,53.33,11.50
+Kairo,1242,30.05,31.24
+Nghe An,1231,19.41,104.68
+Siegen,1225,50.87,8.02
+Wei§enfels,1220,51.20,11.97
+Sangerhausen,1211,51.47,11.30
+Parchim,1209,53.43,11.85
+Bergisch Gladbach,1206,50.99,7.13
+Lšbau,1205,51.09,14.67
+Buenos Aires,1199,-34.61,-58.45
+Elsterwerda,1197,51.46,13.52
+Offenbach am Main,1195,50.09,8.77
+Gleiwitz/Oberschlesien,1177,39.78,-100.45
+Plovdiv,1176,42.14,24.75
+Igdir,1172,39.92,44.05
+Fulda,1169,50.55,9.68
+Schšnebeck (Elbe),1169,52.02,11.74
+AngermŸnde,1166,53.02,14.00
+Birecik,1161,37.05,38.08
+Herne,1161,51.54,7.22
+FŸrstenwalde/Spree,1154,52.36,14.06
+Detmold,1143,51.94,8.88
+Dnepropetrowsk,1143,39.78,-100.45
+Beeskow,1139,52.17,14.25
+Torgau,1139,51.56,13.00
+Lima,1135,-12.00,-76.83
+Kattowitz,1134,50.26,19.02
+Dobrich,1131,43.67,27.91
+Recklinghausen,1129,51.61,7.20
+S‹o Paulo,1129,-21.95,-49.02
+Hameln,1123,52.10,9.36
+Kleinmachnow,1119,52.41,13.22
+Bangkok,1117,13.59,100.42
+Baku,1115,40.39,49.85
+Bamberg,1115,49.89,10.89
+Meiningen,1112,50.57,10.43
+Konstanz,1106,47.66,9.18
+Prag,1099,50.09,14.42
+Ludwigshafen am Rhein,1095,49.49,8.39
+Tuzla,1093,44.54,18.68
+Zielona G—ra,1090,51.94,15.50
+NeumŸnster,1077,54.07,9.99
+Herford,1073,52.12,8.67
+Thessaloniki,1063,40.64,22.94
+WolfenbŸttel,1063,52.16,10.53
+Hamm,1062,51.66,7.82
+Minden,1062,52.29,8.92
+Zagreb,1060,45.81,15.98
+Varto,1058,39.20,41.40
+Omsk,1053,54.99,73.37
+Falkensee,1045,52.57,13.09
+Antakya,1038,36.22,36.17
+Mailand,1036,45.47,9.19
+Tetovo,1033,42.01,20.97
+Bogota,1028,4.60,-74.08
+Accra,1016,5.56,-0.21
+Gardelegen,1015,52.53,11.39
+Helmstedt,1012,52.23,11.01
+Qu_ng B“nh,1012,17.57,106.21
+Homs,1010,34.73,36.72
+Neapel,1008,40.84,14.25
+Kelkit,1006,40.13,39.43
+Schweinfurt,1004,50.05,10.23
+Freital,1000,51.02,13.65
+Mus,990,42.61,-2.23
+Zerbst/Anhalt,987,51.96,12.09
+ZŸrich,984,47.37,8.54
+Annaberg-Buchholz,983,50.58,13.01
+Corum,980,40.55,34.96
+Bydgoszcz,974,53.13,18.01
+Malchin,963,53.74,12.76
+Starnberg,955,48.00,11.35
+Bad Schlema,949,50.60,12.67
+Hagenow,948,53.43,11.19
+Saalfeld/Saale,943,50.64,11.35
+MŸlheim an der Ruhr,939,51.43,6.88
+Pri_tina,936,42.66,21.16
+Greiz,934,50.66,12.20
+Dublin,928,53.35,-6.26
+Rudolstadt,925,50.72,11.34
+GŸtersloh,924,51.91,8.38
+Bayburt,913,40.26,40.22
+Bergen,909,60.39,5.33
+Reutlingen,909,48.49,9.21
+Kaiserslautern,904,49.44,7.77
+Razgrad,899,43.53,26.52
+Borna,897,51.12,12.50
+Skopje,893,42.00,21.43
+Hohen Neuendorf,892,52.67,13.28
+Osterburg (Altmark),888,52.79,11.75
+Wittenberge,888,53.00,11.75
+Stargard in Pommern,879,53.97,18.53
+Radebeul,877,51.10,13.68
+Sta§furt,875,51.85,11.59
+Tokio,875,35.69,139.51
+Minsk,874,53.90,27.56
+Neuss,871,51.20,6.69
+Rendsburg,871,54.30,9.66
+Ludwigsburg,869,48.90,9.19
+LŸdenscheid,862,51.22,7.64
+Goslar,859,51.91,10.43
+Teterow,857,53.77,12.58
+Gro§enhain,855,51.29,13.53
+Leverkusen,855,51.03,6.99
+Belgrad,854,44.82,20.46
+Haiphong,852,20.86,106.67
+Ilmenau,850,50.69,10.91
+Hongkong,848,22.28,114.16
+Hanau,847,50.13,8.92
+Solingen,847,51.17,7.08
+Bayreuth,840,49.94,11.58
+Shanghai,840,31.23,121.49
+Aschaffenburg,838,49.97,9.15
+Filderstadt,838,48.66,9.22
+Stade,829,53.60,9.48
+Graz,828,47.07,15.44
+JŸterbog,824,52.00,13.08
+Krakau,823,50.06,19.94
+Arnstadt,821,50.83,10.95
+Hindenburg,818,53.09,13.46
+Tiflis,815,41.69,44.80
+Bad Freienwalde (Oder),811,52.79,14.04
+Coburg,810,50.26,10.96
+Tunis,810,33.84,9.40
+Haldensleben,809,52.29,11.41
+Zhejiang,809,29.00,120.00
+Saida,807,33.57,35.37
+Eisleben,806,51.51,11.55
+Delmenhorst,800,53.05,8.63
+Havelberg,798,52.83,12.07
+Nis,798,43.32,21.90
+Gifhorn,788,52.48,10.54
+Peine,787,52.32,10.23
+Tel Aviv-Jaffa,783,32.08,34.78
+Cuxhaven,770,53.87,8.70
+Bad Muskau,764,51.55,14.72
+Beuthen an der Oder,760,51.73,15.82
+Luckau,760,51.85,13.72
+Wurzen,755,51.37,12.74
+Eutin,752,54.14,10.62
+Rio de Janeiro,752,-22.28,-42.42
+Almaty,749,43.22,76.92
+Gdansk,749,54.35,18.65
+Herdecke,749,51.40,7.43
+Lšrrach,747,47.61,7.66
+Uelzen,742,52.97,10.56
+Seelow,741,52.53,14.38
+Zrenjanin,741,45.38,20.39
+Schleswig,739,54.52,9.57
+Charkow,735,49.99,36.23
+Lissabon,734,38.71,-9.14
+Jerusalem,732,31.78,35.23
+Nowosibirsk,732,55.03,82.92
+Taschkent,730,41.31,69.28
+Baden-Baden,723,48.76,8.24
+Treuenbrietzen,722,52.10,12.87
+Remscheid,721,51.18,7.19
+Apolda,719,51.02,11.51
+Mexiko-Stadt,715,19.43,-99.13
+Dšbeln,709,51.12,13.12
+KŸhlungsborn,707,54.14,11.75
+Ulaanbaatar,706,47.95,106.97
+Pazardzhik,704,42.12,24.17
+Bad Kreuznach,701,49.85,7.86
+Eckernfšrde,699,54.47,9.84
+Rodewisch,698,50.53,12.40
+Burgas,695,42.49,27.46
+Crivitz,693,53.58,11.65
+Nordhorn,693,52.44,7.07
+Peking,692,39.91,116.39
+Esslingen am Neckar,684,48.74,9.31
+Grosny,684,43.33,45.68
+RŠckelwitz,684,51.26,14.22
+Villingen-Schwenningen,676,48.06,8.49
+LŸbz,674,53.46,12.03
+Carsamba,671,41.20,36.73
+Iserlohn,670,51.37,7.70
+Husum,669,54.49,9.05
+Blankenburg (Harz),668,51.79,10.95
+Itzehoe,668,53.93,9.52
+Liegnitz/Schlesien,666,39.78,-100.45
+Reichenbach im Vogtland,664,50.62,12.33
+Speyer,664,49.32,8.43
+Buftea,663,44.56,25.95
+Wittenberg,660,51.92,12.64
+Caracas,659,10.51,-66.91
+El Bass,657,33.27,35.21
+Valencia,657,39.68,-0.77
+Sarajevo,654,43.85,18.39
+Bad Salzungen,650,50.81,10.23
+Novi Pazar,649,43.14,20.51
+GrevesmŸhlen,647,53.86,11.19
+Hˆ Tinh,647,18.35,105.90
+Amsterdam,645,52.37,4.90
+Lippstadt,644,51.67,8.35
+Ršbel/MŸritz,642,53.38,12.61
+Ratibor,641,50.09,18.22
+Hof,640,50.32,11.92
+Worms,640,49.66,8.32
+Basel,639,47.56,7.59
+Gšppingen,638,48.71,9.66
+Neuwied,638,50.43,7.47
+Bottrop,637,51.52,6.93
+Eleskirt,628,39.83,42.61
+Jiangsu,628,33.00,120.00
+Herat,625,34.35,62.22
+Allenstein/Ostpreussen,624,39.78,-100.45
+Frankenberg (Eder),624,51.06,8.79
+Halfeti,623,37.30,37.99
+Sour,622,31.11,-7.60
+Leer (Ostfriesland),621,53.23,7.46
+Jakarta,620,-6.18,106.83
+Ravensburg,619,47.78,9.61
+Santiago,617,-33.44,-70.65
+Stolp/Pommern,616,54.46,17.03
+Oschatz,606,51.30,13.11
+Sondershausen,605,51.37,10.87
+FŸrth,603,49.48,10.99
+Haifa,599,32.82,35.00
+Ribnitz-Damgarten,599,54.24,12.43
+Siegburg,597,50.80,7.21
+Wei§wasser,597,51.57,10.07
+Lutherstadt Eisleben,595,51.53,11.55
+Friedrichshafen,594,47.65,9.48
+Northeim,594,51.71,10.00
+Sšmmerda,591,51.16,11.12
+Eilenburg,590,51.46,12.63
+Stollberg/Erzgeb.,588,50.71,12.78
+Witten,587,51.44,7.34
+Henstedt-Ulzburg,586,53.79,9.98
+Hildburghausen,586,50.43,10.73
+Neunkirchen (Saar),585,49.35,7.18
+Unna,585,51.53,7.69
+Hai Duong,584,-3.18,37.19
+Graudenz,583,53.47,18.77
+Landshut,583,48.54,12.15
+Aksaray,582,38.37,34.03
+Leisnig,580,51.16,12.93
+Lagos,579,20.02,103.38
+Sivas,579,39.75,37.01
+Offenburg,578,48.47,7.94
+SchwŠbisch Hall,578,49.11,9.74
+Bad Hersfeld,577,50.87,9.71
+Kopenhagen,577,55.69,12.57
+Bšblingen,574,48.68,9.01
+Lemgo,574,52.03,8.90
+Waiblingen,571,48.83,9.32
+Saarlouis,569,49.32,6.75
+Dachau,567,48.26,11.44
+Genthin,557,52.41,12.16
+Koszalin,556,54.19,16.18
+Grimma,555,51.24,12.73
+Caputh,554,52.34,12.98
+Soltau,554,52.99,9.84
+Querfurt,551,51.38,11.60
+Hšxter,549,51.77,9.38
+Heiligenstadt,548,49.88,11.15
+Ingolstadt,548,48.76,11.43
+Emden,547,53.37,7.21
+Nam Dinh,547,20.27,106.16
+Wittstock/Dosse,544,53.16,12.49
+Palermo,543,38.11,13.35
+Rheine,543,52.28,7.44
+Soest,543,51.57,8.11
+Stockholm,543,59.33,18.07
+Bad Oldesloe,542,53.81,10.37
+Bursa,541,40.18,29.07
+Pawlodar,541,52.28,76.96
+BŸtzow,539,53.85,11.98
+Vilnius,539,54.68,25.29
+Prizren,536,42.21,20.74
+Sonneberg,536,50.36,11.17
+Wolmirstedt,536,52.25,11.63
+Heide,535,54.19,9.09
+Hilden,535,51.17,6.93
+Iskenderun,535,36.62,36.27
+Luxemburg,535,49.82,6.09
+Moers,535,51.45,6.63
+Tekman,533,39.61,41.44
+SchneidemŸhl,531,53.15,16.74
+GeorgsmarienhŸtte,530,52.20,8.05
+Langenhagen,527,52.44,9.74
+DŸren,525,50.80,6.48
+Bad Oeynhausen,524,52.20,8.80
+Barlinek,524,53.00,15.22
+Chisinau,524,47.01,28.86
+KŸstrin,523,52.59,14.65
+Eskisehir,521,39.77,30.52
+Ruse,521,43.85,25.95
+Troisdorf,518,50.82,7.16
+Schkeuditz,516,51.40,12.22
+Meseritz,515,52.44,15.58
+Torgelow,514,53.63,14.01
+Linz,511,48.31,14.29
+KšnigshŸtte,510,49.97,12.29
+Amman,509,31.95,35.92
+Innsbruck,509,47.27,11.39
+Rosenheim,509,47.85,12.13
+Malatya,506,38.48,38.10
+FŸrstenberg/Havel,499,53.18,13.15
+Tarsus,497,37.03,34.88
+Salzburg,494,47.80,13.05
+Tscheljabinsk,493,55.16,61.40
+Helsinki,492,60.17,24.94
+Schmalkalden,492,50.72,10.45
+Sebnitz,490,50.97,14.27
+Kempten (AllgŠu),488,47.73,10.32
+Sindelfingen,488,48.71,9.00
+Viersen,488,51.25,6.38
+Meerane,487,50.85,12.47
+Elmshorn,486,53.75,9.65
+Werdau,486,50.74,12.38
+Eschwege,485,51.19,10.06
+Zlotow,485,53.36,17.03
+Insterburg/Ostpreussen,480,39.78,-100.45
+Kirsehir,480,39.15,34.16
+Split,480,43.51,16.44
+Douala,479,4.05,9.66
+Elbing,479,54.16,19.40
+BurgstŠdt,475,50.92,12.81
+Pš§neck,473,50.69,11.60
+Werneuchen,473,52.63,13.73
+Jaffna,471,9.66,80.01
+Rochlitz,471,51.05,12.80
+Taipeh,471,25.04,121.56
+Kumasi,470,6.70,-1.62
+Beograd,469,44.82,20.46
+Elbistan,469,38.33,37.33
+Mittweida,468,50.99,12.98
+Tyr,468,33.27,35.20
+Marienberg,466,50.65,13.16
+Midyat,466,37.37,41.38
+Friedrichroda,463,50.86,10.56
+Stadthagen,463,52.33,9.21
+Casablanca,462,33.59,-7.62
+Flatow/Pommern,462,39.78,-100.45
+Friedberg (Hessen),462,50.34,8.76
+Melbourne,462,-37.81,144.96
+Sydney,461,-33.85,151.22
+Leskovac,460,43.00,21.95
+Leinefelde,459,51.39,10.32
+Holzminden,456,51.83,9.45
+Marl,456,49.74,3.77
+Wesel,455,51.66,6.62
+Aue,454,-24.78,134.76
+GrŸnberg/Schlesien,453,51.94,15.50
+Saigon,452,10.78,106.70
+Thorn,452,53.02,18.62
+DŸzce,451,40.84,31.16
+Aalen,450,48.84,10.09
+Dinslaken,450,51.56,6.73
+Nizip,448,37.01,37.79
+Gransee,445,53.01,13.16
+Heidenheim an der Brenz,445,48.71,10.17
+Castrop-Rauxel,444,51.56,7.31
+Santiago de Chile,444,-33.44,-70.65
+Memmingen,443,47.99,10.18
+Wippra,442,51.57,11.22
+Altentreptow,441,53.69,13.25
+Mersin,437,36.81,34.63
+Bacau,435,46.56,26.92
+Bad Homburg v.d. Hšhe,435,39.78,-100.45
+Dohna,434,50.96,13.86
+Shandong,434,36.00,119.00
+Swinoujscie,434,53.91,14.25
+Toronto,434,43.65,-79.38
+Turin,434,45.07,7.69
+Constanta,432,44.17,28.62
+Ho-Chi-Minh-Stadt,432,10.78,106.70
+Yozgat,432,39.82,34.81
+Bern,431,46.95,7.45
+SchwŠbisch GmŸnd,431,48.80,9.80
+Yaounde,430,3.87,11.52
+Alexandria,429,31.20,29.89
+LŸnen,429,51.61,7.52
+Nabatie,429,39.78,-100.45
+Akcaabat,428,41.02,39.57
+Gryfino,427,53.25,14.49
+Stra§burg,427,48.58,7.75
+Pinneberg,421,53.66,9.80
+Luanda,420,-8.83,13.24
+Bad Segeberg,417,53.94,10.30
+Aurich,415,53.47,7.48
+Havanna,415,23.14,-82.37
+Oslo,413,59.91,10.74
+Bad Langensalza,412,51.11,10.65
+Landau in der Pfalz,412,49.21,8.11
+Targovishte,412,43.25,26.57
+Kayseri,411,38.73,35.48
+Gro§ršhrsdorf,409,51.15,14.02
+Dahme/Mark,408,51.87,13.43
+Amberg,407,49.45,11.86
+Bad Harzburg,407,51.88,10.56
+Cloppenburg,407,52.85,8.04
+Lublin,406,51.25,22.57
+Singen (Hohentwiel),406,47.76,8.83
+Velbert,406,51.34,7.04
+Glauchau,404,50.82,12.54
+Sevilla,404,37.39,-6.00
+Zvornik,401,44.39,19.10
+Erzurum,400,39.76,41.40
+Genf,397,46.20,6.15
+Liebenwalde,397,52.87,13.39
+MŸncheberg,395,52.50,14.14
+Gorzow,394,50.08,19.23
+Nairobi,394,-1.28,36.82
+Provadia,394,43.17,27.39
+Arnsberg,393,51.40,8.06
+Heringsdorf,393,53.95,14.13
+Hindenburg/Oberschlesien,392,39.78,-100.45
+Jelenia G—ra,389,50.90,15.73
+Ljubljana,386,46.05,14.51
+Tallinn,386,59.44,24.75
+Wetzlar,386,50.55,8.51
+BŸckeburg,385,52.26,9.05
+Hasaka,385,36.50,40.75
+Torun,385,53.02,18.62
+Zschopau,385,50.75,13.07
+Pirmasens,382,49.20,7.61
+Strasburg,381,48.58,7.75
+Bad Frankenhausen/KyffhŠuser,380,51.36,11.10
+Osterode am Harz,380,51.73,10.25
+Zawia,379,39.78,-100.45
+Rotenburg (WŸmme),378,53.11,9.40
+Th‡i B“nh,378,20.45,106.34
+IbbenbŸren,377,52.28,7.72
+Barth,376,54.37,12.73
+Johannesburg,376,-26.21,28.05
+Lahore,376,31.56,74.32
+Schleiz,376,50.58,11.81
+Coesfeld,375,51.95,7.17
+Gujrat,375,32.57,74.07
+Schmšlln,375,50.90,12.35
+Kuwait,374,29.27,47.50
+Cayirli,373,39.80,40.04
+Leonberg,372,48.80,9.01
+Lyon,372,45.76,4.83
+Bad Landeck,371,50.34,16.89
+Neustadt (Dosse),371,52.86,12.44
+Hohenmšlsen,370,51.16,12.10
+Lingen (Ems),370,52.51,7.37
+Nakhon Ratchasima,369,14.95,101.99
+Passau,368,48.57,13.46
+Hama,366,35.13,36.75
+Tettnang,366,47.67,9.59
+Walsrode,366,52.86,9.59
+Novi Sad,365,45.26,19.85
+†skŸdar,365,41.03,29.03
+California,363,36.70,-118.76
+Lahr/Schwarzwald,363,48.33,7.88
+Dhaka,362,23.76,90.38
+Backnang,361,48.95,9.43
+Bakirkšy,360,40.98,28.87
+Freudenstadt,360,48.46,8.41
+Kustanai,360,53.21,63.63
+Reichenberg,360,50.77,15.06
+Slubice,360,52.35,14.56
+Bad Pyrmont,359,51.99,9.24
+Preetz,359,54.24,10.28
+Warendorf,359,51.95,7.99
+Washington,359,38.89,-77.04
+BŸnde,358,52.20,8.58
+Kikinda,358,45.83,20.46
+Montreal,358,45.52,-73.59
+Addis Abeba,357,9.00,38.75
+Oelsnitz/Vogtl.,357,50.38,12.11
+PŸlŸmŸr,357,39.46,39.97
+Slupsk,355,54.46,17.03
+Bruchsal,354,49.12,8.60
+Oschersleben (Bode),354,52.03,11.23
+Reinbek,353,53.51,10.25
+Ust-Kamenogorsk,352,49.96,82.61
+Woldegk,352,53.46,13.58
+Buxtehude,350,53.48,9.70
+Conakry,349,9.52,-13.70
+Shiraz,348,29.61,52.54
+Xanthi,348,41.14,24.89
+Achim,347,53.02,9.02
+Usak,346,38.68,29.40
+Krasnojarsk,342,56.01,92.87
+Denizli,341,37.77,29.09
+Bocholt,339,51.84,6.61
+Erlabrunn,339,49.86,9.84
+Trabzon,339,41.01,39.73
+Bad Mergentheim,338,49.49,9.77
+Beckendorf-Neindorf,338,52.08,11.19
+Debno,338,52.74,14.70
+Zary,338,51.64,15.14
+Crimmitschau,337,50.82,12.39
+Eregli,337,37.51,34.05
+Kamenz,337,51.27,14.09
+Los Angeles,337,34.05,-118.24
+Gro§-Gerau,335,49.92,8.47
+Walbrzych,335,50.77,16.28
+BŠrwalde/Neumark,334,52.79,14.50
+Swiebodzin,334,52.25,15.53
+Vechta,334,52.73,8.29
+Gehrden,332,52.31,9.60
+Haan,331,51.20,7.01
+NŸrtingen,331,48.63,9.34
+Cagliari,330,39.22,9.11
+Homburg,328,47.76,7.51
+Kleve,328,51.79,6.13
+Mardin,327,37.34,40.75
+Shumen,327,43.27,26.94
+Yavuzeli,327,37.32,37.57
+Lichtenstein,326,47.14,9.55
+Nahr al-Bared,326,34.51,35.96
+Rottweil,326,48.17,8.63
+Ahlen,325,51.76,7.89
+Kaunas,325,54.90,23.91
+Kšslin,325,54.19,16.18
+Mashhad,325,36.30,59.61
+Gladbeck,324,51.57,6.99
+Thanh Hoa,324,20.11,105.21
+Einbeck,323,51.82,9.87
+Bietigheim-Bissingen,321,48.95,9.14
+Crossen an der Oder,321,52.05,15.10
+Frunse,321,46.83,29.88
+Reykjavik,321,64.15,-21.94
+Straubing,321,48.88,12.57
+Benghazi,319,32.12,20.07
+Daraa,319,32.62,36.11
+Omurtag,318,43.11,26.42
+Herrenberg,317,48.60,8.87
+Lich,316,50.52,8.82
+Schwelm,316,51.28,7.29
+RŸsselsheim,315,39.78,-100.45
+Banja Luka,314,44.77,17.19
+Benin-Stadt,314,6.33,5.62
+Dannenberg (Elbe),314,53.10,11.10
+GrŠfelfing,314,48.12,11.43
+Tilsit,314,55.08,21.89
+Tomsk,314,56.49,84.95
+Henan,313,34.00,114.00
+Sabac,313,44.75,19.69
+Kaufbeuren,312,47.88,10.62
+Nienburg/Weser,312,52.64,9.22
+Rize,311,41.02,40.52
+Sigmaringen,309,48.09,9.22
+Rinteln,308,52.19,9.08
+Waldenburg,308,48.75,7.20
+Beuthen/Oberschlesien,307,39.78,-100.45
+Bischofswerda,307,51.13,14.18
+Storkow,307,52.25,13.93
+Adapazari,306,40.78,30.40
+Ansbach,306,49.30,10.57
+Bad Nauheim,306,50.37,8.75
+BrŸssel,306,50.84,4.37
+Tuttlingen,306,47.98,8.82
+Bratislava,305,48.14,17.16
+Kaliningrad,304,54.71,20.51
+Neuenhagen bei Berlin,304,52.53,13.69
+Nordenham,304,53.50,8.48
+Teltow,304,52.40,13.26
+Senftenberg,303,51.52,14.00
+Krusevac,302,43.38,17.11
+Popovo,302,43.35,26.23
+Skwierzyna,302,52.60,15.50
+Udon Thani,302,17.46,102.84
+Liaoning,301,41.00,123.00
+Daugavpils,299,55.90,26.53
+Klagenfurt,299,46.62,14.31
+Hekimhan,298,38.81,37.98
+Kielce,298,50.87,20.63
+Kronach,298,50.24,11.33
+Radeberg,298,51.12,13.92
+Bialystok,297,53.13,23.16
+Gro§ Schšnebeck,297,52.93,13.58
+Konya,297,37.87,32.48
+Dorsten,296,51.66,6.96
+Ratingen,296,51.30,6.85
+Buchholz in der Nordheide,295,53.33,9.87
+Kars,295,40.61,43.10
+Kulmbach,295,50.10,11.45
+LŸbbecke,295,52.31,8.62
+Manila,295,14.59,120.98
+Slavonski Brod,295,45.17,18.01
+Akcadag,294,38.37,37.85
+Ordu,294,40.83,37.41
+Bozen,293,46.50,11.35
+Všlklingen,293,49.24,6.85
+Aytos,292,42.70,27.25
+Montevideo,292,-34.91,-56.19
+Serres,292,42.95,2.32
+Kirchheim unter Teck,291,48.65,9.45
+Tercan,291,39.78,40.38
+Konin,290,52.23,18.25
+Brcko,289,44.88,18.81
+Bad Soden am Taunus,288,50.14,8.51
+Riad,288,24.63,46.72
+Korbach,287,51.27,8.88
+Meppen,287,52.69,7.29
+Tabriz,286,38.08,46.29
+Melle,285,44.56,7.32
+Verden (Aller),284,52.94,9.24
+Garmisch-Partenkirchen,283,47.49,11.10
+Sorgun,282,39.81,35.19
+Zeulenroda,282,50.65,11.98
+Gummersbach,281,51.03,7.56
+Develi,280,38.26,35.59
+Lauenburg/Pommern,279,54.54,17.75
+Ruda O.S,279,50.27,18.86
+Gaza,278,-23.33,32.81
+Kinshasa,278,-4.32,15.31
+Sulecin,278,52.44,15.12
+Tunceli,277,39.11,39.55
+B_c Giang,276,21.28,106.19
+New Jersey,276,40.08,-74.40
+Sichuan,276,30.50,102.50
+Drezdenko,275,52.84,15.83
+Meschede,275,51.34,8.29
+Langen (Hessen),274,49.99,8.67
+Sliven,274,42.68,26.32
+Friedland,273,53.67,13.55
+Pennsylvania,272,40.97,-77.73
+Cayiralan,271,39.30,35.65
+Guangdong,271,23.14,113.20
+La Paz,270,-16.50,-68.13
+Las Palmas de Gran Canaria,270,28.13,-15.44
+Tirana,270,41.32,19.90
+Aydin,269,37.85,27.83
+Ayran,269,37.15,37.91
+Herten,269,51.59,7.14
+Mettingen,269,52.32,7.78
+Weingarten,269,47.81,9.64
+Israel,266,30.88,35.00
+Balikesir,265,39.65,27.89
+Gemerek,265,39.31,36.02
+Sandikli,265,38.47,30.16
+Semipalatinsk,265,50.41,80.25
+Toulouse,265,43.60,1.44
+†berlingen,265,47.77,9.17
+Bad Godesberg,264,50.68,7.15
+BŸtow,264,53.35,12.49
+Freising,264,48.40,11.74
+Idar-Oberstein,264,49.71,7.31
+Schwiebus,264,52.25,15.53
+Beckum,263,51.76,8.04
+Cordoba,263,37.88,-4.78
+Dirschau,263,54.09,18.80
+Hubei,263,31.00,112.00
+Perm,263,58.01,56.25
+Pyrzyce,263,53.15,14.89
+Rheda-WiedenbrŸck,263,51.84,8.30
+AnnahŸtte,262,51.56,13.89
+Kolberg,262,54.18,15.58
+Rotterdam,262,51.93,4.49
+Schšneiche bei Berlin,262,52.48,13.70
+BŸnyan,261,38.78,35.96
+Deggendorf,261,48.83,12.96
+Izmit,261,40.76,29.93
+Illinois,260,40.08,-89.43
+Karachi,260,24.87,67.03
+Lichtenfels,260,50.15,11.07
+_arkikaraa_a,260,37.92,31.31
+Catania,259,37.50,15.09
+Glogow,259,51.66,16.09
+Neustadt am RŸbenberge,259,52.51,9.46
+Tuzluca,259,35.36,34.00
+Weinheim,259,49.55,8.67
+Wittlich,259,49.99,6.89
+Ebersbach,258,51.69,10.64
+Vrsac,258,45.12,21.30
+Agrigento,257,37.31,13.57
+Ostercappeln,257,52.34,8.23
+TangermŸnde,257,52.54,11.97
+Donaueschingen,256,47.95,8.50
+Isperih,256,43.72,26.83
+Singapur,255,1.29,103.85
+Terme,255,41.21,36.97
+Traunstein,255,47.87,12.64
+Datteln,254,51.65,7.34
+Gšlbasi,253,39.55,32.83
+Neu Kali§,253,53.18,11.29
+Santo Domingo,253,18.48,-69.94
+Iasi,252,47.16,27.58
+Kardzhali,252,41.64,25.37
+Livno,252,43.83,17.00
+Duschanbe,251,38.53,68.78
+Landsberg,251,48.05,10.87
+Malaga,251,36.72,-4.42
+Marseille,251,43.30,5.37
+Bad Honnef,250,50.64,7.23
+Boizenburg/Elbe,250,53.38,10.72
+Dippoldiswalde,250,50.89,13.67
+Duderstadt,250,51.51,10.26
+Donezk,249,48.02,37.80
+Schreiberhau,249,50.83,15.53
+Brasov,248,45.65,25.61
+Olpe,247,51.03,7.84
+Zonguldak,247,41.25,31.84
+Ostfildern,246,48.72,9.26
+Savsat,246,41.30,42.37
+Sialkot,246,32.49,74.54
+Quito,245,-0.16,-78.49
+Rastatt,245,48.86,8.21
+Zelinograd,245,39.78,-100.45
+Biberach an der Ri§,244,48.10,9.79
+Westerstede,244,53.26,7.93
+Balchik,243,43.43,28.16
+Legnica,243,51.21,16.17
+Olsztyn,243,53.78,20.48
+Papenburg,243,53.08,7.39
+Waldshut-Tiengen,243,47.66,8.18
+Gelnhausen,242,50.20,9.19
+Rasht,242,37.28,49.58
+Walcz,242,53.27,16.47
+Khon Kaen,241,16.35,102.68
+Kirkuk,241,35.47,44.40
+Mšlln,241,53.63,10.69
+Silistra,241,44.12,27.26
+Rawalpindi,239,33.60,73.06
+Osaka,238,34.69,135.51
+Salzkotten,238,51.66,8.62
+Glogau,237,51.66,16.09
+Norden,237,53.59,7.21
+Witzenhausen,237,51.34,9.86
+Diepholz,236,52.61,8.37
+Neustadt an der Weinstra§e,236,49.35,8.14
+Osijek,236,45.55,18.69
+Wolgograd,236,48.71,44.52
+Busan,235,35.19,129.06
+Caykara,235,40.65,40.25
+Comilla,235,23.46,91.18
+Karlsburg,235,46.07,23.57
+Bischkek,234,42.88,74.61
+Ratzeburg,234,53.70,10.77
+Bad Kissingen,233,50.20,10.08
+Brilon,233,51.40,8.57
+Waldbršl,233,50.88,7.62
+Birmingham,232,52.48,-1.90
+Bad Wildungen,231,51.10,9.15
+Giresun,231,40.91,38.39
+Leegebruch,231,52.72,13.19
+Palma de Mallorca,231,39.57,2.65
+Priboj,231,43.58,19.53
+Varel,231,53.40,8.14
+Alsfeld,230,50.75,9.27
+Chicago,230,41.88,-87.62
+Schorndorf,230,48.80,9.53
+Taras,230,42.89,71.39
+Ufa,230,54.73,55.95
+Neustettin,229,53.71,16.69
+Sanaa,229,15.34,44.20
+Warburg,228,51.49,9.15
+Craiova,226,44.32,23.80
+Dogansehir,226,38.05,37.87
+Frechen,226,50.91,6.81
+Glasgow,226,37.00,-85.91
+Massachusetts,226,42.38,-72.03
+Santa Cruz de Tenerife,226,28.46,-16.25
+Tirebolu,226,40.91,38.87
+Doboj,225,44.73,18.09
+Gubin,225,51.95,14.73
+Zenica,225,44.20,17.91
+Bartmannshagen,224,54.12,13.11
+Bremervšrde,224,53.49,9.14
+Karsiyaka,224,38.50,27.12
+Kirchheimbolanden,223,49.67,8.01
+Krasnodar,223,45.04,38.98
+Zaragoza,223,41.65,-0.88
+Andernach,222,50.44,7.40
+Elazig,222,38.71,39.34
+Forchheim,222,49.72,11.06
+Manchester,222,53.48,-2.24
+Michigan,222,43.62,-84.68
+Ahaus,221,52.08,7.01
+Antalya,221,36.90,30.69
+Emmendingen,221,48.12,7.85
+Gšrele,221,40.91,39.11
+Gro§ Strehlitz,221,50.52,18.30
+Anhui,220,32.00,117.00
+Lausanne,220,46.52,6.63
+Asmara,219,15.34,38.93
+Clausthal-Zellerfeld,219,51.81,10.34
+Mitrovica,219,46.06,17.00
+Tutin,219,42.99,20.34
+Pleven,218,48.49,-2.32
+Suvaja,218,44.54,20.17
+Bologna,217,44.49,11.34
+NiebŸll,217,54.79,8.83
+Mettmann,216,51.25,6.98
+B_c Ninh,215,21.18,106.06
+Geesthacht,215,53.44,10.37
+Sulechow,215,52.09,15.63
+Bassum,214,52.85,8.73
+Diyarbakir,214,37.91,40.23
+Seeheim-Jugenheim,214,49.76,8.64
+Texas,214,31.82,-99.51
+Barnaul,213,53.35,83.78
+Boston,213,42.36,-71.06
+Bytom,213,50.35,18.92
+Zabrze,213,50.31,18.79
+Delitzsch,212,51.53,12.34
+K_dzierzyn-Ko_le,212,50.34,18.20
+Tarnowitz,212,50.44,18.86
+Agri,211,39.72,43.05
+Kaman,211,36.46,50.14
+Kapstadt,211,-33.93,18.42
+Mahlow,211,52.36,13.41
+Of,211,40.88,40.28
+Esfahan,210,32.67,51.67
+Kalisz,210,51.76,18.08
+Mostar,210,43.40,17.85
+Mutlangen,210,48.82,9.79
+Tavas,209,37.57,29.07
+Kigi,208,12.14,8.03
+Granada,207,37.18,-3.60
+Porto,207,41.15,-8.61
+Werne,207,51.66,7.64
+WŸrselen,207,50.82,6.13
+Leszno,206,51.84,16.57
+Abadan,205,30.36,48.26
+Belo Horizonte,205,-19.92,-43.95
+Klaipeda,205,55.71,21.13
+Rheinfelden (Baden),205,47.56,7.79
+Bari,204,41.13,16.86
+Hunan,204,28.00,112.01
+Lwow,204,49.84,24.03
+Ohio,204,40.23,-82.69
+Timisoara,204,45.75,21.23
+Aussig,203,50.67,14.04
+Euskirchen,203,50.66,6.79
+Pila,203,53.15,16.74
+Schweidnitz,203,50.84,16.49
+Temeschburg,203,45.75,21.23
+Fritzlar,202,51.13,9.27
+Giza,202,30.02,31.21
+Lobenstein,202,50.05,17.75
+Miltenberg,202,49.70,9.25
+Radom,202,51.40,21.16
+Chojnice,201,53.70,17.57
+Gediz,201,38.99,29.39
+Zeven,201,53.30,9.28
+Bad Doberan,200,54.11,11.90
+Banaz,200,38.74,29.75
+Kempen,200,51.09,6.10
+Palma Di Montechiaro,200,37.19,13.76
+Tervel,200,43.75,27.41
+Tutrakan,200,44.05,26.62
+Algier,199,36.78,3.06
+Brest,199,48.39,-4.49
+Mosbach,199,49.35,9.15
+Oelde,199,51.83,8.15
+Bad Reichenhall,198,47.72,12.88
+Calw,198,48.72,8.74
+Shaanxi,198,36.00,109.00
+Szczecinek,198,53.71,16.69
+Latakia,197,35.52,35.78
+Memel,197,55.71,21.13
+MŸhlacker,197,48.95,8.85
+Werneck,197,49.98,10.10
+Arbil,196,36.19,44.01
+Bad Gandersheim,196,51.87,10.03
+Bensheim,196,49.68,8.62
+Bregenz,196,47.50,9.75
+Neuhaus am Rennweg,196,50.48,11.05
+Sa§nitz,196,54.52,13.64
+Vancouver,196,49.26,-123.11
+Edinburgh,195,55.95,-3.19
+Gujranwala,195,32.15,74.19
+Mosul,195,36.35,43.10
+Rabat,195,34.02,-6.84
+Rybnik,195,50.10,18.54
+Seesen,195,51.89,10.17
+Vinkovci,195,45.29,18.80
+Zella-Mehlis,195,50.66,10.67
+Engelskirchen,194,50.99,7.41
+MarkranstŠdt,194,51.30,12.22
+Rheydt,194,51.17,6.44
+San Jose,194,37.34,-121.89
+Hattingen,193,51.40,7.19
+Merzig,193,49.44,6.64
+Osterholz-Scharmbeck,193,53.23,8.79
+Bleicherode,192,51.44,10.57
+Hebei,192,39.00,116.00
+Auckland,191,-36.85,174.77
+Crailsheim,191,49.14,10.07
+Geislingen an der Steige,191,48.62,9.84
+Kotel,191,42.89,26.45
+Marktredwitz,191,50.00,12.09
+San Francisco,191,37.78,-122.42
+Warin,191,53.80,11.71
+Elblag,190,54.16,19.40
+Ro§lau,190,51.89,12.24
+Sarkisla,190,39.41,36.39
+Stavenhagen,190,53.70,12.91
+Strizilo,190,39.78,-100.45
+Borken,189,51.84,6.86
+Colombo,189,6.93,79.85
+Czestochowa,189,50.81,19.11
+FŸrstenfeldbruck,189,48.18,11.24
+Karasu,189,41.05,30.69
+Bensberg,188,50.97,7.16
+Wittmund,188,53.58,7.78
+Eschweiler,187,50.82,6.26
+Breitenbrunn/Erzgeb.,186,50.48,12.77
+Emsdetten,186,52.17,7.53
+Geldern,186,52.13,6.08
+Neu-Ulm,186,48.40,10.01
+Wertheim,186,49.76,9.51
+Balingen,185,48.27,8.86
+Elgersburg,185,50.71,10.85
+Gjilan,185,42.46,21.47
+Hirschberg,185,50.90,15.73
+Irbid,185,32.56,35.85
+Ballenstedt,184,51.72,11.23
+Greven,184,52.09,7.61
+Kamen,184,51.59,7.66
+Nantes,184,47.22,-1.56
+Paracin,184,43.86,21.41
+Qu_ng Ninh,184,21.17,107.20
+Salvador,184,13.80,-88.91
+Schšnberg,184,53.85,10.93
+Hechingen,183,48.35,8.96
+KŸtahya,183,39.42,29.99
+Lubin,183,51.40,16.20
+Olbernhau,183,50.66,13.35
+Schulzendorf,183,52.36,13.60
+Acipayam,182,37.43,29.35
+BŸhl,182,48.73,7.09
+Calbe (Saale),182,51.90,11.78
+HaselŸnne,182,52.67,7.48
+Liverpool,182,53.41,-2.98
+Weida,182,50.78,12.06
+Bristol,181,51.45,-2.60
+Eichwalde,181,52.37,13.62
+Manisa,181,38.62,27.43
+Freetown,180,8.48,-13.27
+Haskovo,180,41.93,25.56
+MŸnchberg,180,50.19,11.79
+Ortakšy,180,40.80,37.43
+Plock,180,52.55,19.70
+Dillenburg,179,50.74,8.29
+Jagodina,179,43.98,21.26
+Jarmen,179,53.92,13.34
+Jeddah,179,21.58,39.16
+JŸlich,179,50.92,6.36
+Lebork,179,54.54,17.75
+Wildeshausen,179,52.90,8.44
+Bangalore,178,12.98,77.59
+Duhok,178,36.86,42.99
+Goleniow,178,53.57,14.83
+Heilongjiang,178,48.00,128.00
+Lehnin,178,52.33,12.77
+Rennes,178,48.11,-1.68
+Simferopol,178,44.95,34.10
+Zoppot,178,54.44,18.57
+Bulancak,177,40.94,38.23
+Choszczno,177,53.17,15.42
+Idil,177,57.65,39.88
+Jever,177,53.57,7.90
+Maputo,177,-25.97,32.57
+Nšrdlingen,177,48.85,10.49
+Nowa Sol,177,51.80,15.71
+Villach,177,46.62,13.85
+Warstein,177,51.45,8.35
+Malchow,176,53.44,11.76
+Sarioglan,176,39.08,35.97
+Selb,176,50.17,12.13
+Swerdlowsk,176,48.08,39.64
+Braila,175,46.92,28.84
+LŸdinghausen,175,51.77,7.44
+Kadikšy,174,40.99,29.02
+Mayen,174,50.33,7.22
+Sibiu,174,45.80,24.15
+Afyon,173,38.76,30.53
+Alicante,173,38.38,-0.53
+Dakar,173,14.69,-17.45
+Hermannstadt,173,45.80,24.15
+Schwerte,173,51.45,7.57
+Tiraspol,173,46.85,29.63
+Velten,173,52.69,13.18
+Herborn,172,50.68,8.30
+Lšcknitz,172,53.45,14.22
+Shanxi,172,37.00,112.00
+Steinfurt,172,52.13,7.39
+Wangen im AllgŠu,172,47.69,9.83
+Werdohl,172,51.26,7.76
+Wittingen,172,52.73,10.74
+GŸlsehir,171,38.74,34.62
+Rzeszow,171,50.04,22.00
+Saratow,171,51.53,46.03
+Schwetzingen,171,49.38,8.57
+Luzern,170,47.05,8.31
+Oxford,170,51.75,-1.26
+Rostow am Don,170,47.22,39.70
+Wloclawek,170,52.65,19.06
+Ceyhan,169,37.03,35.82
+Eisenberg,169,50.97,11.86
+Ispir,169,40.53,41.00
+Padova,169,45.41,11.87
+Porto Alegre,169,-30.03,-51.23
+Miastko,168,54.00,16.98
+Sousse,168,35.83,10.64
+Bugojno,167,44.05,17.45
+Klosterheide,167,52.99,12.97
+Lietuva,167,55.35,23.75
+Ploiesti,167,44.94,26.02
+Recife,167,-8.06,-34.90
+Utrecht,167,52.08,5.13
+BrŸhl,166,50.83,6.90
+Erkner,166,52.43,13.75
+Pernik,166,42.61,23.04
+Saraykšy,166,37.91,28.87
+Landstuhl,165,49.41,7.57
+Attendorn,164,51.13,7.90
+Dinar,164,48.63,-2.06
+Florenz,164,43.77,11.26
+Guayaquil,164,-2.21,-79.90
+Sinj,164,43.70,16.64
+Werl,164,51.55,7.92
+Bad Schwalbach,163,50.14,8.07
+Gumbinnen,163,54.59,22.20
+Kanagawa,163,35.29,139.39
+Miskolc,163,48.10,20.79
+WipperfŸrth,163,51.12,7.39
+Zagan,163,51.62,15.31
+Zgorzelec,163,51.15,15.01
+Koktschetaw,162,39.78,-100.45
+LŸbbenau,162,50.66,6.47
+Schneeberg,162,50.60,12.64
+Schramberg,162,48.23,8.39
+Stolberg,162,50.77,6.23
+Avanos,161,38.87,34.85
+Bozkir,161,37.18,32.35
+Grevenbroich,161,51.09,6.58
+Herzberg am Harz,161,51.65,10.34
+Boleslawiec,160,51.26,15.57
+GŸmŸshane,160,40.21,39.31
+Ha Tay,160,24.15,102.65
+Kehl,160,48.57,7.82
+Kolobrzeg,160,54.18,15.58
+Landsberg am Lech,160,48.05,10.87
+Radusa,160,52.93,29.69
+Resadiye,160,40.42,37.35
+Sisli,160,41.06,28.98
+Buckow,159,52.57,14.08
+Calau,159,51.75,13.95
+Marienburg,159,54.04,19.03
+Altštting,158,48.23,12.68
+Derventa,158,44.98,17.91
+Dormagen,158,51.09,6.84
+Erkelenz,158,51.08,6.32
+Hemer,158,51.39,7.77
+Lemberg,158,49.84,24.03
+Sjenica,158,43.27,20.00
+Temirtau,158,50.05,72.96
+Delhi,157,28.66,77.23
+Gniezno,157,52.54,17.60
+GŸnzburg,157,48.45,10.28
+Jerewan,157,40.17,44.55
+Jilin,157,43.00,125.98
+Karaman,157,37.18,33.34
+Subotica,157,46.10,19.66
+Bad Tšlz,156,47.76,11.56
+Brisbane,156,-27.47,153.02
+Florida,156,27.76,-81.46
+Galati,156,45.43,28.05
+Sinsheim,156,49.26,8.88
+Waldenburg/Schlesien,156,39.78,-100.45
+HŸnfeld,155,50.67,9.77
+Kahramanmaras,155,37.59,36.90
+Pancevo,155,44.87,20.64
+Tianjin,155,39.12,117.20
+Wattenscheid,155,51.48,7.13
+Araban,154,37.43,37.69
+Ayancik,154,41.83,34.60
+Baalbeck,154,34.01,36.21
+Bad Driburg,154,51.74,9.02
+Devrek,154,41.17,31.94
+Drawsko Pomorskie,154,53.53,15.81
+Mirow,154,53.28,12.82
+QuakenbrŸck,154,52.67,7.96
+Sorau,154,51.64,15.14
+Stara Zagora,154,42.46,25.56
+Zepernick,154,52.66,13.52
+Kronstadt,153,59.99,29.77
+Meerbusch,153,51.27,6.68
+Ochsenfurt,153,49.67,10.07
+Preu§isch Stargard,153,53.97,18.53
+Waldheim,153,51.08,13.02
+Wejherowo,153,54.61,18.25
+Westerland,153,54.91,8.31
+Besni,152,37.61,37.87
+Bitburg,152,49.97,6.52
+Cambridge,152,52.20,0.12
+Fujian,152,26.55,117.84
+Wolfhagen,152,51.33,9.17
+ZŸllichau,152,52.09,15.63
+Bandung,151,-6.93,107.60
+Biesenthal,151,52.76,13.66
+Eberbach,151,48.93,8.07
+Edirne,151,41.68,26.56
+Edmonton,151,53.53,-113.51
+Genua,151,44.41,8.93
+Geseke,151,51.64,8.51
+Kavala,151,40.94,24.41
+Palu,151,-5.44,120.19
+Rijeka,151,45.33,14.44
+Brehna,150,51.56,12.20
+Eriwan,150,40.18,44.51
+Kubrat,150,43.80,26.50
+Lahnstein,150,50.31,7.60
+Lehrte,150,52.37,9.97
+Venedig,150,45.44,12.33
+Bad SŠckingen,149,47.55,7.95
+Bialogard,149,54.01,15.99
+Bogazliyan,149,39.24,35.30
+Bolu,149,40.73,31.61
+Burgwedel,149,52.50,9.87
+Bytow,149,54.17,17.49
+Ikizdere,149,40.78,40.56
+Laupheim,149,48.23,9.88
+Lille,149,50.63,3.07
+Mulhouse,149,47.75,7.34
+…hringen,149,49.20,9.50
+Osmaniye,149,37.07,36.26
+Ottawa,149,45.42,-75.69
+Wittenburg,149,53.51,11.08
+Bingšl,148,38.89,40.50
+Erbach,148,49.63,9.01
+Ghazni,148,33.54,68.41
+Lengerich,148,52.19,7.85
+Orenburg,148,51.77,55.10
+Orsk,148,51.23,58.47
+Weilburg,148,50.48,8.27
+Adiyaman,147,37.76,38.28
+Cali,147,3.43,-76.51
+Groningen,147,53.22,6.56
+Lugansk,147,48.57,39.32
+Turek,147,52.02,18.50
+Achern,146,48.63,8.07
+Beelitz,146,52.24,12.97
+Bilbao,146,43.26,-2.93
+Darende,146,38.56,37.60
+Hettstedt,146,51.65,11.50
+Imranli,146,39.78,38.18
+Taranto,146,40.47,17.24
+Versailles,146,48.80,2.13
+Arhus,145,56.15,10.21
+FŸssen,145,47.57,10.70
+Hendek,145,40.80,30.72
+Hofgeismar,145,51.50,9.38
+Sisak,145,45.47,16.37
+Damme,144,51.26,3.29
+Illertissen,144,48.22,10.11
+Kirikhan,144,36.52,36.41
+Konitz,144,53.70,17.57
+Naltschik,144,43.49,43.62
+Neisse,144,51.36,14.97
+Urus-Martan,144,43.13,45.54
+Coswig,143,51.13,13.58
+Dieburg,143,42.61,25.49
+Geilenkirchen,143,50.96,6.12
+Kaltenkirchen,143,53.84,9.96
+Karlsbad,143,50.23,12.87
+Rahden,143,52.43,8.62
+Stadtlohn,143,51.99,6.92
+Wadern,143,49.54,6.89
+Yambol,143,42.49,26.50
+Debrecen,142,47.53,21.63
+Gomel,142,37.74,-3.07
+Hohenstein-Ernstthal,142,50.80,12.71
+Arnswalde,141,53.17,15.42
+Kartal,141,40.92,29.20
+Limbach-Oberfrohna,141,50.86,12.75
+Marienwerder,141,53.73,18.93
+Schwabach,141,49.33,11.02
+Tegernsee,141,47.71,11.75
+Adloun,140,33.40,35.27
+Aktjubinsk,140,39.78,-100.45
+Bielsko-Bia_a,140,49.82,19.04
+Firenze,140,43.77,11.26
+Irkutsk,140,52.29,104.28
+Mumbai,140,18.95,72.83
+Prokopjewsk,140,53.89,86.74
+Ramat Gan,140,32.07,34.82
+Rothenburg ob der Tauber,140,49.38,10.18
+Schwaan,140,53.94,12.11
+Sremska Mitrovica,140,44.97,19.62
+Donauwšrth,139,48.72,10.78
+Finowfurt,139,52.84,13.68
+Gabrovo,139,42.94,25.21
+Georgia,139,41.68,44.03
+Gunzenhausen,139,49.11,10.75
+Kappeln,139,54.66,9.93
+Podujeve,139,42.91,21.19
+Pozarevac,139,44.62,21.19
+Prijedor,139,44.98,16.71
+Resko,139,53.77,15.41
+Santiago de Cuba,139,20.03,-75.83
+Schwerin an der Warthe,139,52.60,15.50
+St. Wendel,139,49.47,7.17
+Sulingen,139,52.68,8.80
+SŸrmene,139,40.81,40.06
+Szeged,139,46.25,20.15
+Leeds,138,53.80,-1.54
+Mombasa,138,-4.04,39.65
+Seehausen,138,52.89,11.75
+Zielenzig,138,52.44,15.12
+Gevelsberg,137,51.32,7.34
+Gryfice,137,53.91,15.20
+Ibadan,137,7.38,3.90
+Kamie_ Pomorski,137,53.96,14.77
+Lublinitz,137,50.67,18.68
+Neuilly-Sur-Seine,137,48.88,2.27
+Otterndorf,137,53.81,8.90
+Bergneustadt,136,51.02,7.65
+Gliwice,136,50.29,18.67
+Sanliurfa,136,37.16,38.79
+Wermelskirchen,136,51.14,7.22
+Alaca,135,40.16,34.92
+Bad DŸrkheim,135,49.46,8.17
+Bad DŸrrenberg,135,51.30,12.07
+Brescia,135,45.54,10.22
+Deutsch Krone,135,53.27,16.47
+Gronau,135,52.21,7.02
+Guadalajara,135,40.74,-2.51
+Hung Yen,135,20.82,106.03
+Isparta,135,37.77,30.56
+Kšlleda,135,51.19,11.24
+Loznica,135,44.54,19.23
+Neustadt in Holstein,135,54.11,10.81
+Nowogard,135,53.67,15.12
+Olesnica,135,51.21,17.38
+Petershagen,135,52.38,8.97
+Sulzbach-Rosenberg,135,49.50,11.75
+Tczew,135,54.09,18.80
+Virginia,135,37.12,-78.49
+Arad,134,46.29,21.89
+Jiangxi,134,28.00,116.00
+Odense,134,55.40,10.39
+Szprotawa,134,51.56,15.54
+Varazdin,134,46.31,16.34
+Yildizeli,134,39.90,36.50
+Yomra,134,40.85,39.85
+DŸlmen,133,51.83,7.28
+Nevsehir,133,38.62,34.71
+Pretoria,133,-25.73,28.18
+Radolfzell am Bodensee,133,47.77,9.00
+Tresnjevica,133,43.87,21.32
+Wisconsin,133,44.43,-89.69
+Bunzlau,132,51.26,15.57
+Cadiz,132,36.52,-6.28
+Lome,132,6.13,1.22
+Maribor,132,46.56,15.64
+Nowokusnezk,132,53.76,87.14
+Tschernowzy,132,39.78,-100.45
+Winterthur,132,47.50,8.73
+Arpacay,131,40.61,43.70
+Biedenkopf,131,50.92,8.53
+Bordeaux,131,44.84,-0.58
+GrŠfenhainichen,131,51.73,12.46
+Heckelberg,131,52.74,13.84
+Kemerowo,131,55.36,86.09
+Naila,131,50.33,11.71
+Nottingham,131,52.95,-1.15
+Petropawlowsk,131,53.02,158.65
+Plettenberg,131,51.21,7.87
+Sagan,131,51.62,15.31
+Slawno,131,54.36,16.68
+Swidnica,131,50.84,16.49
+Ukraine,131,49.49,31.27
+Cork,130,51.90,-8.47
+Kathmandu,130,27.71,85.31
+Kosice,130,48.72,21.25
+Luban,130,26.82,18.12
+Salerno,130,40.68,14.77
+Samarkand,130,39.65,66.98
+Schwalmstadt,130,50.91,9.21
+Akhisar,129,38.92,27.84
+Dubai,129,25.27,55.30
+Kitzingen,129,49.73,10.16
+Szamotuly,129,52.61,16.58
+Verona,129,45.44,10.99
+Wels,129,48.16,14.02
+Bad Elster,128,50.28,12.24
+Brieg,128,48.10,-4.00
+Calgary,128,51.05,-114.06
+Inowroclaw,128,52.80,18.26
+Kamp-Lintfort,128,51.50,6.55
+Khartoum,128,15.59,32.54
+KŸnzelsau,128,49.28,9.69
+Metz,128,49.12,6.18
+Montpellier,128,43.61,3.88
+Neuenkirchen,128,49.35,6.56
+Rheinhausen,128,51.40,6.69
+Teplitz,128,50.64,13.82
+Curitiba,127,-25.43,-49.27
+Ehringshausen,127,50.60,8.38
+Gšteborg,127,57.71,11.97
+GrŸnstadt,127,49.57,8.16
+Tjumen,127,57.15,65.54
+Hachenburg,126,50.66,7.83
+Heinsberg,126,51.07,6.10
+Ankum,125,52.54,7.87
+Breisach am Rhein,125,48.03,7.58
+Eggenfelden,125,48.40,12.76
+Gro§-Schšnebeck,125,52.93,13.58
+Gro§-Umstadt,125,49.87,8.93
+Isfahan,125,32.67,51.67
+Kandel,125,49.08,8.20
+Kingston,125,17.97,-76.79
+Koscian,125,52.09,16.65
+Nazilli,125,37.94,28.33
+Niesky,125,51.29,14.82
+†nye,125,41.13,37.29
+Ellwangen (Jagst),124,48.96,10.13
+Hoya,124,52.81,9.14
+Kevelaer,124,51.58,6.25
+Marienbad,124,46.70,17.41
+MŸnden,124,51.42,9.66
+Dernbach,123,50.54,7.92
+Merzifon,123,40.84,35.47
+Minnesota,123,45.99,-94.61
+Rehovot,123,31.90,34.81
+Saarburg,123,49.61,6.55
+Sarafand,123,33.45,35.30
+Steinheim,123,51.87,9.09
+Ardahan,122,41.11,42.70
+Bretten,122,49.04,8.71
+Cosel,122,51.38,13.94
+Eisfeld,122,50.43,10.91
+Hadamar,122,50.45,8.05
+Hofheim am Taunus,122,50.09,8.45
+Liepaja,122,56.51,21.02
+Menden,122,51.44,7.80
+Nancy,122,48.69,6.18
+Oberkirch,122,48.53,8.08
+Sevlievo,122,43.03,25.10
+Steyr,122,48.04,14.42
+Bihac,121,44.81,15.87
+Dohuk,121,37.04,43.10
+Friesoythe,121,53.02,7.85
+Konak,121,38.41,27.13
+Kozuchow,121,51.75,15.59
+Les Lilas,121,48.88,2.42
+Limburg an der Lahn,121,50.39,8.06
+Messina,121,38.19,15.55
+Phu Tho,121,21.30,105.09
+Srebrenica,121,44.11,19.30
+Wedel,121,53.58,9.70
+Cholargos,120,38.00,23.80
+Friesack,120,52.74,12.58
+Klštze,120,52.63,11.17
+Ninh Binh,120,20.25,105.98
+Ronneburg,120,50.86,12.18
+Salihli,120,38.57,28.20
+Telgte,120,51.98,7.78
+Thale,120,51.75,11.04
+Zara,120,44.12,15.22
+Antwerpen,119,51.22,4.40
+Canberra,119,-35.28,149.13
+Cherson,119,46.64,32.61
+Lovech,119,43.13,24.72
+Murcia,119,37.99,-1.13
+Przemysl,119,49.78,22.77
+Roth,119,49.25,11.09
+Tšnisvorst,119,51.31,6.46
+Urfa,119,37.16,38.79
+Wildau,119,52.32,13.63
+Bad Ems,118,50.34,7.71
+Brno,118,49.19,16.61
+Erding,118,48.31,11.91
+Gerede,118,40.71,32.33
+Gnoien,118,53.97,12.71
+Gradacac,118,44.88,18.43
+Kazanlak,118,42.62,25.40
+Kopejsk,118,39.78,-100.45
+Krievija,118,64.69,97.75
+Mazgirt,118,38.94,39.73
+SchwabmŸnchen,118,48.18,10.76
+Swiecie,118,53.41,18.45
+Winsen (Luhe),118,53.36,10.21
+Zavidovici,118,44.44,18.15
+Binz,117,54.42,13.58
+Daegu,117,35.84,128.56
+Ferizaj,117,42.37,21.16
+Haltern,117,52.13,7.27
+Haskšy,117,38.68,41.69
+Kolo,117,46.64,14.30
+Komotini,117,41.12,25.40
+Marousi,117,38.05,23.81
+Medellin,117,6.24,-75.57
+Nienburg (Saale),117,51.84,11.77
+Stadtoldendorf,117,51.88,9.63
+Uslar,117,51.66,9.63
+Wellington,117,-41.29,174.78
+Willich,117,51.26,6.54
+Xinjiang,117,41.05,85.94
+Chorzow,116,50.30,18.95
+Karakocan,116,38.96,40.04
+Klingenthal,116,50.36,12.47
+Malsch,116,48.88,8.33
+Mechernich,116,50.59,6.65
+Torul,116,40.51,39.21
+Wolsztyn,116,52.11,16.12
+Boppard,115,50.23,7.60
+Goldap,115,54.31,22.30
+Kamienna G—ra,115,50.78,16.03
+Nusaybin,115,37.19,41.35
+Udine,115,46.06,13.24
+Vientiane,115,17.96,102.61
+Vlore,115,40.47,19.49
+Aksehir,114,38.37,31.45
+Bad Liebenwerda,114,51.52,13.39
+Brighton,114,50.82,-0.14
+Cal,114,39.06,16.52
+Dšmitz,114,53.14,11.26
+Klettwitz,114,51.54,13.89
+Machatschkala,114,42.98,47.50
+Maryland,114,39.52,-76.94
+Neuendettelsau,114,49.28,10.78
+Nowawes,114,52.39,13.09
+Peitz,114,51.86,14.41
+Teocak,114,44.68,16.13
+Trento,114,46.07,11.13
+Arolsen,113,51.38,9.01
+Bad Salzuflen,113,52.09,8.75
+Bielawa,113,50.69,16.62
+Bornova,113,38.47,27.26
+Brasilia,113,-10.33,-53.20
+Espoo,113,60.22,24.66
+Goch,113,51.68,6.16
+Medan,113,3.59,98.67
+Nazimiye,113,39.20,39.85
+Nijmegen,113,51.84,5.84
+Nowy Sacz,113,49.62,20.69
+Schopfheim,113,47.65,7.83
+Suresnes,113,48.87,2.23
+Vakfikebir,113,40.99,39.31
+Abu Dhabi,112,24.47,54.37
+Jelgava,112,56.65,23.73
+Kirchen (Sieg),112,50.82,7.87
+Lubsko,112,51.79,14.97
+Misurata,112,32.38,15.09
+Montana,112,47.38,-109.64
+Nagold,112,48.55,8.72
+North Carolina,112,35.67,-79.04
+Tychy,112,50.13,18.99
+Adelaide,111,-34.93,138.60
+Asenovgrad,111,42.01,24.88
+Bad Friedrichshall,111,49.23,9.21
+Daun,111,50.20,6.83
+Emmerich,111,51.83,6.24
+Rheinsberg,111,53.10,12.89
+Suruc,111,36.98,38.42
+Trzebiatow,111,54.06,15.27
+WarnemŸnde,111,54.18,12.08
+Amarousio,110,39.78,-100.45
+Bor,110,49.71,12.78
+Czernowitz,110,48.29,25.94
+Germersheim,110,49.22,8.37
+Pegnitz,110,49.76,11.54
+Samara,110,53.20,50.11
+Trzcianka,110,53.04,16.46
+Uccle,110,50.80,4.34
+Belfast,109,54.60,-5.93
+Bernkastel-Kues,109,49.92,7.07
+BrŸnn,109,49.19,16.61
+BrunsbŸttel,109,53.90,9.13
+Burghausen,109,48.17,12.83
+Feldberg,109,47.87,8.00
+Grodno,109,53.68,23.83
+Jugenheim,109,49.75,8.63
+Kermanshah,109,34.32,47.07
+Ondokuzmayis,109,41.49,36.08
+Persembe,109,41.42,32.15
+Schwientochlowitz,109,50.29,18.92
+Suceava,109,47.53,25.82
+Winniza,109,48.90,28.52
+Bandirma,108,40.26,27.95
+Bergamo,108,45.69,9.67
+Bielitz,108,49.82,19.04
+Bombay,108,18.95,72.83
+Botosani,108,47.85,26.76
+Dšbern,108,51.61,14.60
+Kšnigstein im Taunus,108,50.18,8.47
+Ro§wein,108,51.07,13.18
+Seifhennersdorf,108,50.93,14.61
+Valladolid,108,41.70,-4.70
+Civril,107,38.96,34.51
+Divrigi,107,39.37,38.04
+Glindow,107,52.36,12.89
+Hai Hung,107,38.14,117.49
+Heppenheim,107,49.64,8.64
+Raciborz,107,50.09,18.22
+Teschen,107,49.75,18.63
+Birkenfeld,106,49.65,7.16
+Bobingen,106,48.27,10.83
+Brzeg Dolny,106,51.27,16.72
+Czluchow,106,53.67,17.36
+Den Haag,106,52.07,4.27
+Eggersdorf,106,52.47,14.11
+Gracanica,106,44.70,18.31
+Leicester,106,52.64,-1.13
+Macka,106,40.81,39.61
+Oran,106,35.70,-0.65
+Th‡i Nguyn,106,21.59,105.84
+Viernheim,106,49.54,8.58
+Agadir,105,30.42,-9.58
+Ahwaz,105,31.33,48.68
+Bad Polzin,105,53.76,16.10
+Ebersberg,105,48.08,11.96
+Eindhoven,105,51.45,5.45
+Gjakove,105,42.38,20.43
+Grabow,105,53.28,11.56
+Langensalza,105,51.11,10.65
+Larisa,105,39.64,22.42
+Leutkirch im AllgŠu,105,47.81,10.04
+Pec,105,49.40,12.83
+Sassari,105,40.72,8.56
+SchlŸchtern,105,50.35,9.53
+Schongau,105,47.81,10.90
+St. Gallen,105,47.43,9.38
+St. Ingbert,105,49.28,7.12
+Tokat,105,40.33,36.38
+Warnsdorf,105,50.91,14.62
+Wschowa,105,51.80,16.32
+Ashkhabad,104,37.94,58.39
+Bad Schwartau,104,53.92,10.70
+Chaiyaphum,104,15.96,101.88
+Charkiw,104,49.99,36.23
+Jessen (Elster),104,51.79,12.96
+Jurmala,104,56.97,23.79
+Nysa,104,50.47,17.33
+Plau,104,50.78,10.90
+Travnik,104,44.23,17.66
+Vacha,104,50.83,10.02
+Aleksinac,103,43.54,21.71
+Angers,103,47.47,-0.55
+Berlinchen,103,53.00,15.22
+Diez,103,50.37,8.02
+Eger,103,47.90,20.37
+Faisalabad,103,31.42,73.09
+GrŠfenthal,103,50.53,11.30
+KlosterbrŸck/Oppeln,103,39.78,-100.45
+Lšningen,103,52.74,7.76
+Moldova,103,47.29,28.51
+Niksar,103,40.56,36.87
+Perth,103,-31.95,115.86
+Strumica,103,41.44,22.64
+Thuine,103,52.50,7.48
+Uralsk,103,51.22,51.37
+Afula,102,32.61,35.29
+Bad Liebenstein,102,50.81,10.36
+Colmar,102,48.08,7.36
+Gostivar,102,41.79,20.91
+Lviv,102,49.84,24.03
+Managua,102,12.15,-86.27
+Nossen,102,51.06,13.30
+Rastenburg/Ostpreu§en,102,39.78,-100.45
+Trostberg,102,48.03,12.56
+Veliko Tarnovo,102,43.20,25.68
+Wermsdorf,102,51.28,12.94
+Bahrendorf,101,53.19,10.95
+BŸdingen,101,50.29,9.14
+EichstŠtt,101,48.89,11.19
+Erbaa,101,40.72,36.60
+Erlenbach a.Main,101,49.80,9.16
+Gol§en,101,51.97,13.61
+Homberg,101,47.76,7.51
+Kilis,101,36.72,37.12
+Kumanovo,101,42.14,21.72
+Kyoto,101,35.02,135.76
+Philadelphia,101,39.95,-75.16
+Saitama,101,36.02,139.28
+Sfax,101,34.74,10.76
+Sške,101,37.68,27.45
+Sprottau,101,51.56,15.54
