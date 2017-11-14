@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+</head>
+
+
+<body>
+  <h1>Simple Dashboard</h1>
+  <p>The following plots are loaded from outside this page...</p>
+
+  <div id="plot_1"></div>
+  <div id="plot_2"></div>
+
+  <script>
+    d3.html('https://raw.githubusercontent.com/chumo/Data2Serve/master/myplot.html',
+             function(fragment){d3.select('#plot_1').node().append(fragment);});
+    d3.html('https://raw.githubusercontent.com/chumo/Data2Serve/master/myplot2.html',
+             function(fragment){d3.select('#plot_2').node().append(fragment);});
+  </script>
+
+</body>
+
+</html>

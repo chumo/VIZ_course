@@ -25,23 +25,13 @@ The course can be divided in two blocks:
 - Mouse events and transitions
 - Layouts and scales
 
-**Plotly and Bokeh: High level libraries for data visualisation. Write Python, get HTML.**
-
-***Plotly:***
+**Plotly: High level library for data visualisation. Write Python, get HTML.**
 
 - Plotly object model
 - Figure, data and layout
 - Online and offline mode
-- Cufflinks: bind plotly directly to pandas dataframes
-- Custom widgets
-
-***Bokeh:***
-
-- Bokeh glyphs
-- Manipulating plots
-- Charts, plotting, models
-- Styling and interactions
-- Bokeh server
+- Cufflinks: bind Plotly directly to pandas dataframes
+- Dashboards
 
 ### Contact
 >Jesús Martínez-Blanco
