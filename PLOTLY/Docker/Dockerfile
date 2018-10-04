@@ -1,4 +1,4 @@
-FROM continuumio/anaconda3
+FROM continuumio/anaconda3:5.3.0
 
 USER root
 
@@ -6,15 +6,15 @@ RUN apt-get update -y
 
 RUN pip install plotly cufflinks
 
-RUN conda install -y -c conda-forge nodejs
-RUN npm i -g npm
+RUN apt-get install -y sudo gnupg2
+RUN curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+RUN apt-get install -y nodejs yarn
 RUN jupyter labextension install @jupyterlab/plotly-extension
-RUN jupyter labextension install jupyterlab-toc
 
 ADD . /home/jovyan
 
 VOLUME /home/jovyan/HOST
-WORKDIR /home/jovyan/HOST
+WORKDIR /home/jovyan/
 
 EXPOSE 8888
 
