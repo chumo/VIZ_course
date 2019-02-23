@@ -17,7 +17,7 @@ Use `--no-cache` if you want to build from scratch.
 
 ```
 cd # if you want to serve from the HOME directory
-docker run --rm -t -p 1789:8888 -v $PWD:/home/jovyan/HOST chumo/plotly_course
+docker run --rm -it -p 1789:8888 -v $PWD:/home/jovyan/HOST chumo/plotly_course
 ```
 
 ```
