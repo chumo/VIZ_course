@@ -24,7 +24,7 @@ docker run --rm -it -p 1789:8888 -v $PWD:/home/jovyan/HOST chumo/plotly_course
 modifiers explained:
 
 --rm : to remove the Docker container after finishing the JupyterLab server with CTRL+c.
- -t  : to be able to stop the JupyterLab server running on the container.
+ -it : to be able to stop the JupyterLab server running on the container.
  -p  : to map the port 8888 internal to the running container (where JypyterLab is running) to the port 1789 outside the container.
  -v  : to mount a local directory into the directory /home/jovyan/HOST inside the container.
 
