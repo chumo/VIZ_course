@@ -4,7 +4,7 @@ USER root
 
 RUN apt-get update -y
 
-RUN pip install jupyterlab matplotlib plotly cufflinks
+RUN pip install jupyterlab matplotlib plotly cufflinks plotly_express
 
 RUN conda install -c conda-forge nodejs
 
