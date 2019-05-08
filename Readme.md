@@ -22,15 +22,14 @@ The course can be divided in two blocks:
 - Selections
 - SVG and CANVAS
 - Loading and Binding Data
-- Mouse events and transitions
-- Layouts and scales
+- Mouse events, transitions, scales
 
 **Plotly: High level library for data visualisation. Write Python, get HTML.**
 
 - Plotly object model
 - Figure, data and layout
 - Online and offline mode
-- Cufflinks: bind Plotly directly to pandas dataframes
+- Plotly Express: build complex visualizations with one liners
 - Dashboards
 
 ### Contact
