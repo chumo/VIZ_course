@@ -1,7 +1,7 @@
 # plotly_course
 
 This Docker image starts a JupyterLab server and contains the plotly and cufflinks libraries,
-as weel as the python libraries in miniconda distribution (numpy, pandas, etc). The plotly extension
+as well as the python libraries in miniconda distribution (numpy, pandas, etc). The plotly extension
 is also installed so that plotly plots can show up inline in the JupyterLab.
 
 ## Build:
