@@ -41,9 +41,9 @@ The course can be divided in two blocks:
 - Figure, data and layout
 - Online and offline mode
 - Plotly Express: build complex visualizations with one liners
-- Dashboards
+- Plotly DASH: web apps with server side support
 
-### Contacta
+### Contact
 >Jesús Martínez-Blanco
 
 >jmb.jesus@gmail.com
