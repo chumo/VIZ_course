@@ -1,3 +1,3 @@
 # PLOTLY
 
-See also the slides in the following [link](http://slides.com/chumo/plotly).
+See also the slides in the following [link](https://slides.com/chumo/plotly).
