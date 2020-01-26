@@ -5,7 +5,7 @@ USER root
 RUN apt-get update -y
 RUN apt-get install -y xvfb libgtk2.0-0 libgconf-2-4 gnupg2
 
-RUN pip install jupyterlab matplotlib==3.0.3 pandas==0.25.1 plotly==4.1.1
+RUN pip install jupyterlab matplotlib==3.1.2 pandas==0.25.3 plotly==4.5.0
 
 # Needed to export to static images
 #RUN conda install -c plotly plotly-orca
