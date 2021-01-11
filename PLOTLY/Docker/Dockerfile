@@ -4,7 +4,7 @@ USER root
 
 RUN apt-get update -y
 
-RUN pip install notebook==6.0.3 matplotlib==3.0.3 pandas==1.0.5 plotly==4.9.0 kaleido==0.0.3
+RUN pip install notebook==6.1.6 matplotlib==3.0.3 pandas==1.2.0 plotly==4.14.2 kaleido==0.1.0
 
 ADD . /home/jovyan
 
