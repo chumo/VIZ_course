@@ -40,8 +40,8 @@ The course can be divided in two blocks:
 
 - Plotly object model
 - Figure, data and layout
-- Online and offline mode
 - Plotly Express: build complex visualizations with one liners
+- Share Plotly interactive visualizations on the web
 - Plotly DASH: web apps with server side support
 
 ### Contact
