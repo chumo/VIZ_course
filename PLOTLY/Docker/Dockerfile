@@ -1,10 +1,10 @@
-FROM continuumio/miniconda3:4.7.12
+FROM continuumio/miniconda3:4.9.2
 
 USER root
 
 RUN apt-get update -y
 
-RUN pip install notebook==6.1.6 matplotlib==3.0.3 pandas==1.2.0 plotly==4.14.2 kaleido==0.1.0
+RUN pip install notebook==6.3.0 matplotlib==3.4.2 pandas==1.2.4 plotly==4.14.3 kaleido==0.2.1
 
 ADD . /home/jovyan
 
