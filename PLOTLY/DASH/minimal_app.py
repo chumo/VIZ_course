@@ -1,14 +1,12 @@
 import pandas as pd
 import numpy as np
 import plotly.express as px
-import dash
-from dash.dependencies import Input, Output
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import Dash, callback, html, dcc, Input, Output
+
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+app = Dash(__name__, external_stylesheets=external_stylesheets)
 
 server = app.server
 
@@ -24,9 +22,10 @@ app.layout = html.Div([
     dcc.Graph(id="myGraph", figure=fig),
 ])
 
-@app.callback(
-    [Output('display-value', 'children'), Output('myGraph', 'figure')],
-    [Input('randomize', 'n_clicks')],
+@callback(
+    Output('display-value', 'children'),
+    Output('myGraph', 'figure'),
+    Input('randomize', 'n_clicks'),
 )
 def do_something(n_clicks):
     # Regenerate the figure
