@@ -23,9 +23,9 @@ app.layout = html.Div([
 ])
 
 @callback(
-    Output('display-value', 'children'),
-    Output('myGraph', 'figure'),
-    Input('randomize', 'n_clicks'),
+    Output(component_id='display-value', component_property='children'),
+    Output(component_id='myGraph', component_property='figure'),
+    Input(component_id='randomize', component_property='n_clicks'),
 )
 def do_something(n_clicks):
     # Regenerate the figure
