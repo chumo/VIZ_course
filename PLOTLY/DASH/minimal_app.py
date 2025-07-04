@@ -16,9 +16,9 @@ fig = px.scatter(df, x='A', y='B')
 
 # Structure of my page
 app.layout = html.Div([
-    html.H1('A simple dashboard'),
-    html.Button('Generate Random Data', id='randomize', n_clicks=0),
-    html.Div(id='display-value'),
+    html.H1(children='A simple dashboard'),
+    html.Button(children='Generate Random Data', id='randomize', n_clicks=0),
+    html.Div(id='display-value', children=None),
     dcc.Graph(id="myGraph", figure=fig),
 ])
 
