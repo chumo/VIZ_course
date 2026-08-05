@@ -1,0 +1,13 @@
+---
+title: "Visualization"
+subtitle: "Foundations of visual communication"
+author: "Jesús Martínez-Blanco"
+format:
+  revealjs:
+    footer: "Visualization Course / Visualization"
+    include-in-header: ../assets/head-deck.html
+---
+
+## Presentation scaffold
+
+Content will be added here.

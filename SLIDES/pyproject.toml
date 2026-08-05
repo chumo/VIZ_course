@@ -1,0 +1,12 @@
+[project]
+name = "viz-course-slides"
+version = "0.1.0"
+description = "Build-time Python dependencies for the Quarto slide decks"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "jupyter>=1.1.1,<2",
+    "plotly>=6.7.0,<7",
+]
+
+[tool.uv]
+package = false

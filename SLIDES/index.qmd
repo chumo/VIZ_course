@@ -1,0 +1,69 @@
+---
+pagetitle: "Visualization Course Slides"
+format:
+  html:
+    theme: cosmo
+    css: assets/site.css
+    include-in-header: assets/head-root.html
+    toc: false
+    page-layout: full
+---
+
+::: {.course-shell}
+
+::: {.course-hero}
+<p class="eyebrow">Data Science Retreat / Visualization</p>
+
+# Interactive visualisation, in source.
+
+These presentations are authored as readable Quarto documents, rendered as
+web-native Reveal slides, and published as a static GitHub Pages site.
+
+<div class="coordinate-line" aria-hidden="true">
+  <span class="coordinate-label coordinate-label-y">insight</span>
+  <span class="coordinate-label coordinate-label-x">interaction</span>
+  <span class="point point-a"></span>
+  <span class="point point-b"></span>
+  <span class="point point-c"></span>
+</div>
+:::
+
+## Presentations {.section-heading}
+
+::: {.deck-grid}
+
+::: {.deck-card .deck-card-visualization}
+<p class="deck-kicker">Foundations</p>
+
+### Visualization
+
+An empty scaffold for the course's visualisation foundations.
+
+[Open Visualization slides →](VISUALIZATION/){.deck-link}
+:::
+
+::: {.deck-card .deck-card-d3}
+<p class="deck-kicker">Browser native</p>
+
+### D3
+
+Selections, data binding, scales, SVG, events, and transitions.
+
+[Open D3 slides →](D3/){.deck-link}
+:::
+
+::: {.deck-card .deck-card-plotly}
+<p class="deck-kicker">Python to HTML</p>
+
+### Plotly
+
+Figures, traces, layouts, expressive APIs, and interactive publishing.
+
+[Open Plotly slides →](PLOTLY/){.deck-link}
+:::
+
+:::
+
+<p class="site-note">Sources live in <code>SLIDES/</code>. Rendered files are produced only for preview and deployment.</p>
+
+:::

@@ -1,0 +1,110 @@
+---
+title: "D3"
+subtitle: "Interactive visualisations in the browser"
+author: "Jesús Martínez-Blanco"
+format:
+  revealjs:
+    footer: "Visualization Course / D3"
+    include-in-header: ../assets/head-deck.html
+---
+
+## Deck scaffold
+
+::: {.columns}
+
+::: {.column width="58%"}
+This source is intentionally small. Extend it with one section per teaching
+unit while keeping examples close to the concepts they demonstrate.
+:::
+
+::: {.column width="42%"}
+::: {.placeholder-list}
+- Web documents and the DOM
+- Selections and data binding
+- Scales, shapes, and interaction
+:::
+:::
+
+:::
+
+::: {.notes}
+This is a scaffold deck. Replace this note with teaching cues, timing, and
+questions for the room.
+:::
+
+## A live D3 plot
+
+The chart below is created in the browser from the readable source in this
+slide. GitHub Pages only needs to serve the generated static files.
+
+::: {.chart-frame}
+```{ojs}
+chart = {
+  const d3 = await require("d3@7.9.0");
+  const data = [
+    {topic: "DOM", value: 32},
+    {topic: "Bind", value: 68},
+    {topic: "Scale", value: 51},
+    {topic: "Draw", value: 82}
+  ];
+
+  const width = 1040;
+  const height = 430;
+  const margin = {top: 24, right: 30, bottom: 66, left: 72};
+  const x = d3.scaleBand()
+    .domain(data.map(d => d.topic))
+    .range([margin.left, width - margin.right])
+    .padding(0.28);
+  const y = d3.scaleLinear()
+    .domain([0, d3.max(data, d => d.value)])
+    .nice()
+    .range([height - margin.bottom, margin.top]);
+
+  const svg = d3.create("svg")
+    .attr("viewBox", [0, 0, width, height])
+    .attr("role", "img")
+    .attr(
+      "aria-label",
+      "D3 bar chart: DOM 32, Bind 68, Scale 51, and Draw 82"
+    );
+
+  svg.append("g")
+    .attr("transform", `translate(0,${height - margin.bottom})`)
+    .call(d3.axisBottom(x).tickSizeOuter(0))
+    .call(g => g.select(".domain").attr("stroke", "#526871"));
+
+  svg.append("g")
+    .attr("transform", `translate(${margin.left},0)`)
+    .call(d3.axisLeft(y).ticks(4).tickSize(-(width - margin.left - margin.right)))
+    .call(g => g.select(".domain").remove())
+    .call(g => g.selectAll(".tick line").attr("stroke", "#dce6ea"));
+
+  svg.append("g")
+    .selectAll("rect")
+    .data(data)
+    .join("rect")
+      .attr("x", d => x(d.topic))
+      .attr("y", d => y(d.value))
+      .attr("width", x.bandwidth())
+      .attr("height", d => y(0) - y(d.value))
+      .attr("rx", 5)
+      .attr("fill", (d, i) => i === data.length - 1 ? "#b84a2b" : "#087f8c");
+
+  svg.selectAll("text")
+    .attr("fill", "#172a33")
+    .style("font-family", "Avenir Next, Segoe UI, sans-serif")
+    .style("font-size", "20px");
+
+  return svg.node();
+}
+```
+:::
+
+## Extend this deck
+
+1. Add slide sections with level-one headings.
+2. Add individual slides with level-two headings.
+3. Keep small data and scripts beside the deck or in `SLIDES/assets/`.
+4. Pin browser libraries and preserve source links for migrated examples.
+
+> Prefer focused examples over embedding legacy pages with incompatible D3 versions.
