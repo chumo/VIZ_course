@@ -1,0 +1,135 @@
+/*-- scss:defaults --*/
+
+$body-bg: #f4f8fa;
+$body-color: #172a33;
+$link-color: #087f8c;
+$selection-bg: #cfe9ec;
+$presentation-heading-color: #172a33;
+$presentation-heading-font: "Avenir Next Condensed", "Arial Narrow", sans-serif;
+$presentation-heading-font-weight: 700;
+$presentation-font-size-root: 34px;
+$font-family-sans-serif: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+$font-family-monospace: ui-monospace, "SFMono-Regular", Consolas, monospace;
+$code-block-font-size: 0.72em;
+
+/*-- scss:rules --*/
+
+.reveal {
+  background-color: $body-bg;
+  background-image:
+    linear-gradient(rgba(23, 42, 51, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(23, 42, 51, 0.025) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  letter-spacing: -0.035em;
+  line-height: 0.98;
+  text-transform: none;
+}
+
+.reveal h2 {
+  padding-bottom: 0.28em;
+  border-bottom: 2px solid #c9d9df;
+}
+
+.reveal .title-slide h1 {
+  max-width: 12ch;
+  font-size: 3.7em;
+}
+
+.reveal .title-slide .subtitle {
+  max-width: 30ch;
+  color: #526871;
+  font-size: 1.05em;
+  line-height: 1.35;
+}
+
+.reveal .title-slide::after {
+  position: absolute;
+  right: 0;
+  bottom: 0.5em;
+  width: 26%;
+  height: 25%;
+  border-bottom: 3px solid #172a33;
+  border-left: 3px solid #172a33;
+  background: linear-gradient(145deg, transparent 48%, #087f8c 49%, #087f8c 51%, transparent 52%);
+  content: "";
+}
+
+.reveal .slide-number {
+  right: 24px;
+  bottom: 18px;
+  color: #526871;
+  background: transparent;
+  font-family: $font-family-monospace;
+  font-size: 14px;
+}
+
+.reveal .footer {
+  color: #526871;
+  font-family: $font-family-monospace;
+  letter-spacing: 0.04em;
+}
+
+.reveal code {
+  border-radius: 4px;
+}
+
+.reveal pre code {
+  padding: 0.75em;
+  border: 1px solid #c9d9df;
+  border-radius: 8px;
+}
+
+.reveal blockquote {
+  width: auto;
+  margin-left: 0;
+  padding: 0.8em 1em;
+  color: #314952;
+  background: #ffffff;
+  border-left: 7px solid #087f8c;
+  box-shadow: none;
+}
+
+.reveal .accent-d3 {
+  color: #087f8c;
+}
+
+.reveal .accent-plotly {
+  color: #b84a2b;
+}
+
+.reveal .placeholder-list li::marker {
+  color: #b84a2b;
+}
+
+.reveal .observablehq,
+.reveal .cell-output-display {
+  width: 100%;
+}
+
+.reveal .observablehq svg,
+.reveal .cell-output-display svg,
+.reveal .js-plotly-plot {
+  max-width: 100%;
+}
+
+.reveal .chart-frame {
+  padding: 0.4em 0.6em 0.2em;
+  background: #ffffff;
+  border: 1px solid #c9d9df;
+  border-radius: 12px 12px 3px 12px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal .slides section {
+    transition: none !important;
+  }
+}

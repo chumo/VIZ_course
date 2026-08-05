@@ -1,0 +1,36 @@
+project:
+  type: default
+  output-dir: _site
+  resources:
+    - assets/favicon.svg
+  render:
+    - index.qmd
+    - VISUALIZATION/index.qmd
+    - D3/index.qmd
+    - PLOTLY/index.qmd
+
+format:
+  revealjs:
+    theme:
+      - simple
+      - assets/slides.scss
+    width: 1600
+    height: 900
+    margin: 0.06
+    center: false
+    transition: fade
+    background-transition: fade
+    navigation-mode: linear
+    controls: true
+    controls-layout: edges
+    controls-tutorial: true
+    progress: true
+    slide-number: c/t
+    show-slide-number: all
+    history: true
+    hash-type: number
+    code-copy: true
+
+execute:
+  error: false
+  warning: false

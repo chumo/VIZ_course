@@ -1,0 +1,68 @@
+---
+name: Publish slides
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - "SLIDES/**"
+      - ".github/workflows/publish-slides.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.10.18
+
+      - name: Set up uv and Python
+        uses: astral-sh/setup-uv@v7
+        with:
+          version: 0.12.1
+          python-version: "3.13"
+          enable-cache: true
+          cache-dependency-glob: "SLIDES/uv.lock"
+
+      - name: Restore Python dependencies
+        run: uv sync --project SLIDES --frozen
+
+      - name: Render Quarto project
+        env:
+          QUARTO_PYTHON: ${{ github.workspace }}/SLIDES/.venv/bin/python
+        run: uv run --project SLIDES --frozen quarto render SLIDES
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload rendered site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: SLIDES/_site
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages site
+        id: deployment
+        uses: actions/deploy-pages@v4
